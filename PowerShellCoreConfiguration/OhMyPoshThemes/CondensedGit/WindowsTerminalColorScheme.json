@@ -1,0 +1,21 @@
+{
+    "name": "CondensedGit",
+    "foreground": "#F8F8F2",
+    "background": "#151718",
+    "black": "#151718",
+    "brightBlack": "#625e4c",
+    "blue": "#FA8419",
+    "brightBlue": "#FA8419",
+    "cyan": "#297ae5",
+    "brightCyan": "#297ae5",
+    "green": "#98F424",
+    "brightGreen": "#98F424",
+    "purple": "#F4005F",
+    "brightPurple": "#F4005F",
+    "red": "#F4005F",
+    "brightRed": "#F4005F",
+    "white": "#F8F8F2",
+    "brightWhite": "#f6f6ef",
+    "yellow": "#3d8ae2",
+    "brightYellow": "#3d8ae2"
+}
