@@ -7,5 +7,5 @@ https://docs.microsoft.com/en-us/windows/terminal/tutorials/powerline-setup
 - Download the `.psm1` file and add it to your PoshThemes folder
   - By default this should be here: C:\\Users\\{userName}\\Documents\\PowerShell\\PoshThemes
 - If there is a corresponding color scheme file, open it and copy the contents
-  - Then, add the color scheme to your color schemes array inside your windows terminal `settings.json` (You can get here by opening Windows Terminal and pressing `ctrl + ,`)
+  - Then, add the color scheme to your color schemes array inside your windows terminal `settings.json` (You can get there by opening Windows Terminal and pressing `ctrl + ,`)
   - Finally, change your Windows Terminal PowerShell Core profile to use the new color scheme 
