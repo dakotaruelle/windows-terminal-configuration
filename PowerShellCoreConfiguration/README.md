@@ -11,4 +11,4 @@ If that command returns false, run this command to generate a profile
 In either case, this file is where you can add custom configuration options to Powershell. This profile is run every time Powershell starts.
 
 Using Oh-My-Posh allows you to set custom themes for Powershell to use. Setting the theme is done in your Powershell profile. For details on creating/adding Oh-My-Posh themes,
-see the OhMyPoshConfigurtion directory.
+see the OhMyPoshThemes directory.
