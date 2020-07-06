@@ -6,7 +6,7 @@ Powershell can be configured through a Powershell profile. To test if you have a
         
 If that command returns false, run this command to generate a profile
     
-    New-Item –Path $Profile –Type File –Force
+    New-Item -ItemType File -Path $PROFILE -Force
     
 In either case, this file is where you can add custom configuration options to Powershell. This profile is run every time Powershell starts.
 
