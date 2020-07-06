@@ -12,4 +12,4 @@ In either case, this file is where you can add custom configuration options to P
 
 Using Oh-My-Posh allows you to use custom Powershell themes. Setting the theme is done in your Powershell profile. An example can be seen in MyProfile.ps1.
 
-For details on creating/getting Oh-My-Posh themes, see the OhMyPoshThemes directory.
+For details on creating/getting Oh-My-Posh themes, see the [OhMyPoshThemes](https://github.com/dakotaruelle/windows-terminal-configuration/tree/master/PowerShellCoreConfiguration/OhMyPoshThemes) directory.
